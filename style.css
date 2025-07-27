@@ -1,0 +1,105 @@
+body{
+    font-family: arial;
+    background: #f9f9f9;
+    justify-content: center;
+    padding: 20px;
+}
+
+.check{
+    font-weight: 100;
+}
+
+.wrapper{
+    width: 600px;
+    border: 10px solid #0b0;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.sections p{
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #eee;
+}
+
+.step{
+    width: 93%;
+}
+
+.recommend li{
+    list-style-type: none;
+}
+
+.recommend ul{
+    text-align: inherit;
+    margin-left: 0;
+    padding: 0;
+}
+
+.language li{
+    list-style-type: none;
+    margin-left: 0;
+}
+
+.language ul{
+    text-align: inherit;
+    margin-left: 0;
+    padding: 0;
+}
+
+.comment{
+    display: block;
+}
+
+.role option{
+    width: 100px;
+}
+
+.comment p{
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #eee;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.submit{
+    width: 99%;
+}
+
+.submit p{
+    text-align: center;
+    width: inherit;
+    background: #0b0;
+    margin-top: 15px;
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.set{
+    display: flex;
+    margin-left: 0;
+}
+
+
+.role{
+    display: flex;
+    justify-content: space-between;
+}
+
+.role p{
+    width: 90%;
+    align-items: center;
+}
+
+.drop{
+    margin-left: 400px;
+    padding-left: 70px;
+}
+
+
+
+
+
+
